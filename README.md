@@ -1,5 +1,10 @@
 # study-typescript
 TypeScriptの勉強用
-node.jsのインストール
+
+やったこと
+
+Gitのインストール
+
+Node.jsのインストール
 
 npmの使用
